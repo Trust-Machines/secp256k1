@@ -5,6 +5,7 @@
 extern "C" {
 #endif
 
+#include "../../_p256k1.h"
 #include <stddef.h>
 
 /** Unless explicitly stated all pointer arguments must not be NULL.
